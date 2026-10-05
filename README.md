@@ -1,5 +1,7 @@
 # HomeKeeper (MVP)
 
+Live at https://chive55.github.io/homekeeper/
+
 A mobile-first web app that builds a personalized home maintenance schedule from a
 short onboarding quiz, then keeps you on track with due/overdue/upcoming tasks,
 completion history, and undo. It also includes a premium Home Inventory section
